@@ -6,5 +6,7 @@ def print_hello():
 a = 3
 b = 4
 
+print "Creating a merge conflict: This is done from newbranch2"
+
 if __name__ == "__main__":
     print_hello()
